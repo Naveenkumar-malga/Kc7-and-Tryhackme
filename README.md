@@ -7,7 +7,7 @@
 - Learned basics of Cybersecurity from tryhackme. 
 
 
-## KC7 - The Cyber detective game   <a href="https://https://kc7cyber.com/profile/Naveen">Home Lab</a>">Home Lab</a>
+## KC7 - The Cyber detective game   <a href="https://https://kc7cyber.com/profile/Naveen">Profile Link</a>">
 
 - Used KQL to investigate ransomware, exploit attempts, and insider threats. 
 - Conducted deep-dive analysis to understand attacker behavior after execution and Improved understanding of Sentinel logs and query patterns
