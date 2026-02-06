@@ -14,3 +14,6 @@
 
 
 ## Tryhackme - A Popular platform for cybersecurity  <a href="https://https://tryhackme.com/p/Naveenkumar0">(Profile Link)</a>
+
+- Learned security concepts through hands-on labs
+- Understood log reading, alert triage, documentation, and reporting 
