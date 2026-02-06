@@ -11,3 +11,6 @@
 
 - Used KQL to investigate ransomware, exploit attempts, and insider threats. 
 - Conducted deep-dive analysis to understand attacker behavior after execution and Improved understanding of Sentinel logs and query patterns
+
+
+## Tryhackme - A Popular platform for cybersecurity  <a href="https://https://tryhackme.com/p/Naveenkumar0">(Profile Link)</a>
